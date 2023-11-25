@@ -19,7 +19,7 @@ O objetivo deste projeto é aplicar os conceitos aprendidos em Estrutura de Dado
 
 ### Imagem do Projeto:
 
-![Imagem do Jogo de Torre de Hanoi](link_para_imagem)
+![Imagem do Jogo de Torre de Hanoi]([link_para_imagem](https://github.com/PatrickDSiqueira/torre_hanoi/blob/main/torreHanoi.jpg))
 
 
 ### Contato:
