@@ -1,10 +1,29 @@
 # Trabalho Especial de Estrutura de Dados
 
 ### Integrantes:
-1. Leandro Sales Santos (12113476) - [Perfil GitHub 1]
-2. Lucas de Oliveira Rodrigues Abreu (12114651) - [Perfil GitHub 1]
-3. Patrick Dias Siqueira (12114788) - [Perfil GitHub 1]
-4. Talison de Jesus Moura (12114853) - [Perfil GitHub 1]
+<div style="display: flex; justify-content: center">
+
+<div style="text-align: center; margin-top: 10px; padding: 10px">
+<img alt="photo user" src="https://avatars.githubusercontent.com/LeandroComD" style="border-radius:100%; width:50px" />
+<p><a href="https://github.com/LeandroComD">Leandro Sales Santos</a></p><span>12113476</span>
+</div>
+
+<div style="text-align: center; margin-top: 10px;padding: 10px">
+<img alt="photo user" src="https://avatars.githubusercontent.com/LucasSangrecco" style="border-radius:100%; width:50px" />
+<p><a href="https://github.com/LucasSangrecco">Lucas de Oliveira Rodrigues Abreu</a></p><span>12113476</span>
+</div>
+
+<div style="text-align: center; margin-top: 10px;padding: 10px">
+<img alt="photo user" src="https://avatars.githubusercontent.com/PatrickDSiqueira" style="border-radius:100%; width:50px" />
+<p><a href="https://github.com/PatrickDSiqueira">Patrick Dias Siqueira</a></p><span>12114788</span>
+</div>
+
+<div style="text-align: center; margin-top: 10px;padding: 10px">
+<img alt="photo user" src="https://avatars.githubusercontent.com/TalisonMoura" style="border-radius:100%; width:50px" />
+<p><a href="https://github.com/TalisonMoura">Talison de Jesus Moura</a></p><span>12114853</span>
+</div>
+
+</div>
 
 ## Projeto: Torre de Hanoi - Aplicação de Estruturas de Dados
 
@@ -19,11 +38,11 @@ O objetivo deste projeto é aplicar os conceitos aprendidos em Estrutura de Dado
 
 ### Imagem do Projeto:
 
-![Imagem do Jogo de Torre de Hanoi]([link_para_imagem](https://github.com/PatrickDSiqueira/torre_hanoi/blob/main/torreHanoi.jpg))
-
+<img alt="picture" src="torreHanoi.jpg" >
+![Imagem do Jogo de Torre de Hanoi](https://github.com/PatrickDSiqueira/torre_hanoi/blob/main/torreHanoi.jpg)
 
 ### Contato:
 
-Se você tiver dúvidas ou sugestões, entre em contato com o grupo por meio do email [email@email.com].
+Se você tiver dúvidas ou sugestões sinta-se a vontade de nos contatar.
 
 Agradecemos pela sua colaboração!
