@@ -1,0 +1,228 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:100%;
+    width: 100%;
+    padding: 0px 60px;
+}
+
+.selected {
+    margin-bottom: 12px;
+}
+
+.imageContainer{
+    display: flex;
+    width: 100%;
+}
+
+img{
+    width: 300px;
+}
+
+.headerText{
+    display: flex;
+    margin: 40px 0px;
+    font-size: 18px
+}
+
+.buttonContainer{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px 20px 80px 0px;
+}
+
+.button{
+    width: 150px;
+    height: 35px;
+}
+
+.button2{
+    width: 110px;
+    height: 35px
+}
+
+.movements{
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+h1{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.hanoi{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.gameArea{
+    display: flex;
+    justify-content: space-around;
+}
+
+.discHolder{
+    align-self: center;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.startPosition{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.offsetPosition{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.endPosition{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tower{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    width: 100px;
+    height: 150px;
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+    background-size: 5% 100%;
+    background-position: 50% 50%;
+    background-image: linear-gradient(black, black);
+    background-color: transparent;
+}
+
+.towerText{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.orange{
+    width: 140px;
+    height: 20px;
+    background-color: orange;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.yellow{
+    width: 120px;
+    height: 20px;
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.red{
+    width: 100px;
+    height: 20px;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.red:active{
+    box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+}
+
+
+.green{
+    width: 80px;
+    height: 20px;
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.green:active{
+    box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+}
+
+.purple{
+    width: 60px;
+    height: 20px;
+    background-color: purple;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.purple:active{
+    box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+}
+
+.blue{
+    width: 40px;
+    height: 20px;
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.blue:active{
+    box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+}
+
+.finish{
+    align-self: center;
+    margin-top: 20px;
+    color: black;
+    font-weight: bold;
+    background-color: violet;
+    border-radius: 5px;
+    height: 20px;
+}
+
+@media  screen and (min-width:768px) {
+    h1 {
+        font-size: 30px;
+    }
+
+    .hanoi {
+        width: 600px;
+    }
+
+
+    .tower:hover {
+        cursor: pointer;
+    }
+
+    .red:hover {
+        cursor: grab
+    }
+
+    .green:hover {
+        cursor: grab
+    }
+
+    .purple:hover {
+        cursor: grab
+    }
+
+    .blue:hover {
+        cursor: grab
+    }
+
+    .finish {
+        font-size: 20px;
+        width: 140px;
+        height: 20px;
+    }
+}
